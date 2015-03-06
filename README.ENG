@@ -1,0 +1,60 @@
+
+                             KETRIS Ver 2.1
+                             ---------------
+
+                         Wow, Another Tetris clone-
+                        just what this world needs
+                          most of all right now! 
+
+Well, here it is, the worlds threehundredfiftyeleventh tetris clone. 
+You are welcome to spread it as much as you like.
+
+Requirements:
+
+        386 PC
+        VGA       
+(hopefully, this will not mean major investments in hardware for you :-))
+
+Supported:
+
+        Soundblaster, SB Pro, SB 16, Gravis Ultrasound, PAS
+        Most common music module formats (except .XM)
+        EMS
+
+Coming up in future versions (maybe):
+
+        Support for one or more of the following:
+        parallell link, serial link, modem play, network, on-line play 
+                                                                             
+        Support for mouse, joystick and gamepad                                                     
+        
+If you experience problems when running Ketris in Windows, it maight be 
+Win32s that doesn't like the game. Uninstall Win32s, or run Ketris Setup and 
+select "No Soundcard". That will probably help.
+                                                                             
+Send suggestions, comments, bugs found (No insects please :-), money you     
+don't need and so on to                                                                
+
+to:
+
+        Kristian Ekeroth
+        Brages Gr„nd 78
+        432 31 Varberg
+        Sweden
+        E-mail: ekeroth@varberg.se
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
